@@ -1,0 +1,4 @@
+screenplays/
+.llm_cache/
+__pycache__/
+*.zip
